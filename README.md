@@ -3,7 +3,7 @@
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={Hope you have a good day}&fontSize=90&fontAlign=50&fontAlignY=70&desc={That is all}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hope%20you%20have%20a%20good%20day&fontSize=90&fontAlign=50&fontAlignY=70&desc=That%20is%20all&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 
