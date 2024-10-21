@@ -20,7 +20,9 @@
 </p>
 
 <!--这是贡献图-->
+<p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cycloneL&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 <!--这是代码编写总时长-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cycloneL&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
@@ -41,15 +43,17 @@
 </p>
 
 <!--贪吃蛇-->
-<picture>
+<div align="center">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <!--这是底部的流动显示-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hope%20you%20have%20a%20good%20day&fontSize=90&fontAlign=50&fontAlignY=70&desc=That%20is%20all&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&width=1600&&section=footer&text=Have%20a%20good%20day&fontSize=90&fontAlign=50&fontAlignY=70&desc=That%20is%20all&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 
