@@ -24,7 +24,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cycloneL&theme=github-compact&hide_border=true&area=true" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welives)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycloneL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
