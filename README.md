@@ -5,7 +5,7 @@
 
 <!--这是打字机效果的文字-->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Lobster&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+territory!;I+am+learning+solidity+smart+contracts!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredericka the Great&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+territory!;I+am+learning+solidity+smart+contracts!" />
 </p>
 
 <!--这是动态小猫咪-->
