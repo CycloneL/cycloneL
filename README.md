@@ -24,6 +24,11 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cycloneL&theme=github-compact&hide_border=true&area=true" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welives)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--这是代码编写总时长-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cycloneL&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
