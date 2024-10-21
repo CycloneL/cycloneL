@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hey friend！}&fontSize=90&fontAlign=50&fontAlignY=70&desc={This is Faith Decade}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hey%20friend!&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20Faith%20Decade&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <p align="center">
