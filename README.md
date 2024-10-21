@@ -4,7 +4,7 @@
 </p>
 
 <!--这是打字机效果的文字-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=&width=435&lines=I'm+learning+solidity+smart+contracts.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E5%81%87&random=&width=435&lines=I'm+learning+solidity+smart+contracts.)](https://git.io/typing-svg)
 
 <!--这是动态小猫咪-->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
