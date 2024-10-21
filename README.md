@@ -29,7 +29,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycloneL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 <!--这是技术栈图标展示-->
-<img align="center" src="https://skillicons.dev/icons?i={YOUR_TECH_STACK}&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=solidity&theme=light" />
 
 <!--小徽章-->
 <img src="https://komarev.com/ghpvc/?username=cycloneL&abbreviated=true" />
