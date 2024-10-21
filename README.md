@@ -29,10 +29,23 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycloneL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 <!--这是技术栈图标展示-->
+<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=solidity&theme=light" />
+</p>
 
 <!--小徽章-->
+<p align="center">
+<img src="https://img.shields.io/badge/QQ-727813698-pink?logo=QQ" />
+<img src="https://img.shields.io/badge/wechat-L727813698-pink?logo=wechat" />
 <img src="https://komarev.com/ghpvc/?username=cycloneL&abbreviated=true" />
+</p>
+
+<!--贪吃蛇-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--这是底部的流动显示-->
 <p align="center">
@@ -41,12 +54,7 @@
 
 
 
-<!--贪吃蛇-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cycloneL/cycloneL/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
