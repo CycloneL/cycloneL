@@ -9,7 +9,7 @@
 </p>
 
 <!--这是动态小猫咪-->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='400'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350'>
 
 <!--这是github数据概览 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cycloneL&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
