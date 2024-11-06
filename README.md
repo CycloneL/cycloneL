@@ -9,10 +9,12 @@
 </p>
 
 <!--这是动态小猫咪-->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='400'>
 
 <!--这是github数据概览 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cycloneL&theme=dracula&include_all_commits=true&show_icons=true&hide_border=true" />
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycloneL)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--这是连续贡献数据记录-->
 <p>
@@ -21,19 +23,27 @@
 
 <!--这是贡献图-->
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cycloneL&theme=github-compact&hide_border=true&area=true" />
+<img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cycloneL&theme=github-compact&hide_border=true&area=true" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycloneL)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycloneL)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+
+
 <!--这是代码编写总时长-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cycloneL&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cycloneL&theme=transparent&hide_border=true&layout=compact&langs_count=22" />-->
 
 <!--这是项目语言比例-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycloneL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cycloneL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />-->
 
 <!--这是技术栈图标展示-->
 <p align="center">
